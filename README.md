@@ -1,6 +1,6 @@
-# Event-based-object-detection
+# Event-based object detection
 
-The code from this repository is part of the Research Project of TU Delft.
+## The code from this repository is part of the Research Project of TU Delft.
 
 The scripts use tensorflow and pytorch. 
 
